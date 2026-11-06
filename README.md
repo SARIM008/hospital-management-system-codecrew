@@ -1,5 +1,13 @@
 # Hospital Management System - Setup Guide
 
+> **Team project by CodeCrew** for the IIT Madras Software Engineering course (Best Course Project, Rank 1).
+> Original repo with full commit history: https://github.com/21f2001224-cmd/team-CodeCrew-se-project
+> My role: Scrum Master.
+>
+> **Team members (contributors in the original repo):** [rishabhcdb](https://github.com/rishabhcdb), [gayathri-srinii](https://github.com/gayathri-srinii)
+>
+> This repository is a single-commit copy of that project; see the original repo for each member's commits.
+
 ## Prerequisites
 
 - Python 3.8+
